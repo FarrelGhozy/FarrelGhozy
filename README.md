@@ -25,7 +25,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Farrel Ghozy
+name: Farrel Ghozy Affifudin
 role: Full-Stack Developer & Tech Experimenter
 location: Indonesia
 education: Teknik Informatika
