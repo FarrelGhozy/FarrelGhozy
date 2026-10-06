@@ -119,51 +119,44 @@ philosophy: "Always experimenting, always learning 🔬"
 
 > 53 public non-fork repos · curated showcase — update Okt 2026 · hanya repo PUBLIC, fork, privat & tugas kecil disembunyikan.
 
-### 🚀 Web & Sistem Informasi
+<details>
+<summary><b>📂 Lihat semua showcase (26 repo publik — klik untuk expand)</b></summary>
 
-| Repository | Description | Stack | Updated |
-|:-----------|:------------|:-----:|:-------:|
-| [WANI](https://github.com/FarrelGhozy/WANI) | Platform omnichannel AI untuk UMKM — WA chatbot + dashboard + web generator ([live](https://wani.utc.web.id/)) | TypeScript | 2026-09-14 |
-| [ISHAS](https://github.com/FarrelGhozy/ISHAS) | Integrated Safety & Health Assessment System for Boarding School (K3L pesantren, React Router + Bun + MySQL) | TypeScript | 2026-10-03 |
-| [tugas-http-request](https://github.com/FarrelGhozy/tugas-http-request) | API sederhana data mahasiswa (Bun + Elysia, CRUD `/mahasiswa`) | TypeScript | 2026-10-06 |
-| [Kasir_UTC_02](https://github.com/FarrelGhozy/Kasir_UTC_02) | Kasir sederhana bengkel UTC v2 ([live](https://kasir-utc-02.vercel.app)) | JavaScript | 2026-09-21 ★1 |
-| [INTERPIXAL_Website](https://github.com/FarrelGhozy/INTERPIXAL_Website) | Profil angkatan 2024 Konsulat Pekalongan (Plat G) | HTML | 2026-09-25 ★1 |
-| [Water-Presence-Monitoring-System](https://github.com/FarrelGhozy/Water-Presence-Monitoring-System) | Citizen Science + AI + satelit — pantau air permukaan Indonesia real-time (Bun + Elysia + React) | TypeScript | 2026-06-11 |
-| [Root-Facts-Apps](https://github.com/FarrelGhozy/Root-Facts-Apps-Farrel-Ghozy) | AI plant recognition PWA — TensorFlow.js + Transformers.js, full client-side | JavaScript | 2026-07-24 |
-| [lazizwaf-gontor](https://github.com/FarrelGhozy/lazizwaf-gontor) | Website profil LAZISWAF UNIDA Gontor | Astro | 2026-07-25 |
-| [pondok-pesantren-site](https://github.com/FarrelGhozy/pondok-pesantren-site) | Website profil pondok — Astro 7 + Tailwind v4 | Astro | 2026-07-12 |
+**🚀 Web & Sistem Informasi**
+- [WANI](https://github.com/FarrelGhozy/WANI) — Platform omnichannel AI untuk UMKM, WA chatbot + dashboard + web generator ([live](https://wani.utc.web.id/)) (TypeScript, 2026-09-14)
+- [ISHAS](https://github.com/FarrelGhozy/ISHAS) — Integrated Safety & Health Assessment System for Boarding School, React Router + Bun + MySQL (TypeScript, 2026-10-03)
+- [tugas-http-request](https://github.com/FarrelGhozy/tugas-http-request) — API data mahasiswa, Bun + Elysia CRUD `/mahasiswa` (TypeScript, 2026-10-06)
+- [Kasir_UTC_02](https://github.com/FarrelGhozy/Kasir_UTC_02) — Kasir bengkel UTC v2 ([live](https://kasir-utc-02.vercel.app)) (JavaScript ★1, 2026-09-21)
+- [INTERPIXAL_Website](https://github.com/FarrelGhozy/INTERPIXAL_Website) — Profil angkatan 2024 Konsulat Pekalongan (HTML ★1, 2026-09-25)
+- [Water-Presence-Monitoring-System](https://github.com/FarrelGhozy/Water-Presence-Monitoring-System) — Citizen Science + AI + satelit, pantau air permukaan real-time (TypeScript, 2026-06-11)
+- [Root-Facts-Apps](https://github.com/FarrelGhozy/Root-Facts-Apps-Farrel-Ghozy) — AI plant recognition PWA, TensorFlow.js full client-side (JavaScript, 2026-07-24)
+- [lazizwaf-gontor](https://github.com/FarrelGhozy/lazizwaf-gontor) — Website profil LAZISWAF UNIDA Gontor (Astro, 2026-07-25)
+- [pondok-pesantren-site](https://github.com/FarrelGhozy/pondok-pesantren-site) — Website profil pondok, Astro 7 + Tailwind v4 (Astro, 2026-07-12)
 
-### 📱 Mobile & IoT
+**📱 Mobile & IoT**
+- [SilatKu](https://github.com/FarrelGhozy/SilatKu) — Manajemen latihan & prestasi silat offline (Kotlin, 2026-08-03)
+- [HematYuk](https://github.com/FarrelGhozy/HematYuk) — Pencatat keuangan mahasiswa, MVVM + Room + Retrofit (Kotlin, 2026-08-11)
+- [App-Edge-AI](https://github.com/FarrelGhozy/App-Edge-AI) — Face Recognition Edge AI (Kotlin ★1, 2026-08-09)
+- [andromeda](https://github.com/FarrelGhozy/andromeda) — Irigasi tetes IoT otomatis (Dart, 2026-08-19)
+- [Flutter-App-Food-Recognizer-App](https://github.com/FarrelGhozy/Flutter-App-Food-Recognizer-App) — Food recognizer app (Dart, 2026-07-23)
 
-| Repository | Description | Stack | Updated |
-|:-----------|:------------|:-----:|:-------:|
-| [SilatKu](https://github.com/FarrelGhozy/SilatKu) | Manajemen latihan & prestasi pencak silat (offline) | Kotlin | 2026-08-03 |
-| [HematYuk](https://github.com/FarrelGhozy/HematYuk) | Pencatat keuangan mahasiswa — MVVM, Room, Retrofit + Gson | Kotlin | 2026-08-11 |
-| [App-Edge-AI](https://github.com/FarrelGhozy/App-Edge-AI) | Face Recognition dengan Edge AI | Kotlin | 2026-08-09 ★1 |
-| [andromeda](https://github.com/FarrelGhozy/andromeda) | Android Routine Monitoring Electronic Drip Automation — irigasi tetes IoT | Dart | 2026-08-19 |
-| [Flutter-App-Food-Recognizer-App](https://github.com/FarrelGhozy/Flutter-App-Food-Recognizer-App) | Food recognizer app | Dart | 2026-07-23 |
+**🤖 AI / ML & Data**
+- [TI5A2_PembelajaranMesin2](https://github.com/FarrelGhozy/TI5A2_452024611053_PembelanganMesin2_FarrelGhozy) — Plant Disease Detection, Transfer Learning (Jupyter, 2026-08-20)
+- [Fine-tuned-Chatbot-RAG](https://github.com/FarrelGhozy/Fine-tuned-Chatbot-Tim-Legal-berbasis-RAG) — Chatbot tim legal berbasis RAG (Jupyter, 2026-07-25)
+- [Workflow-CI](https://github.com/FarrelGhozy/Workflow-CI) — MLflow Diabetes training + CI (Python, 2026-07-21)
+- [CNN-vs-Transfer-Learning](https://github.com/FarrelGhozy/CNN-vs-Transfer-Learning-untuk-Klasifikasi-Citra) — Klasifikasi citra (Jupyter, 2026-07-02)
+- [TI5A2_PengolahanSinyalDigital](https://github.com/FarrelGhozy/TI5A2_452024611053_PengolahanSinyalDigital_FarrelGhozy) — UAS DSP spatial & frequency filtering (Jupyter, 2026-08-20)
+- [Filtering_Data_CSV](https://github.com/FarrelGhozy/Filtering_Data_SCV_dengan_python_Numpy-pandas) — Bersihkan data kosong CSV Numpy-Pandas (Jupyter ★1)
 
-### 🤖 AI / ML & Data
+**🖥️ Infra, Web Profil & Lainnya**
+- [mcu-server-projek](https://github.com/FarrelGhozy/mcu-server-projek) — Server project config (Shell, 2026-08-08)
+- [web-profile-cbb-ceriya](https://github.com/FarrelGhozy/web-profile-cbb-ceriya) — Web profil TK CBB Ceriya (CSS, 2026-08-27)
+- [Projek_DTC](https://github.com/FarrelGhozy/Projek_DTC) — Web Darussalam Technologic Care (HTML ★1, 2026-06-28)
+- [Pedoman_Dex_Unida_2026](https://github.com/FarrelGhozy/Pedoman_Dex_Unida_2026) — Info acara DEX UNIDA 2026 (HTML, 2026-04-12)
+- [my-portofolio](https://github.com/FarrelGhozy/my-portofolio) — Portofolio pribadi (Astro, 2026-06-21)
+- [pondok-umkm](https://github.com/FarrelGhozy/pondok-umkm) — Website profil UMKM pondok (Astro, 2026-07-11)
 
-| Repository | Description | Stack | Updated |
-|:-----------|:------------|:-----:|:-------:|
-| [TI5A2_PembelajaranMesin2](https://github.com/FarrelGhozy/TI5A2_452024611053_PembelanganMesin2_FarrelGhozy) | Plant Disease Detection — Deep Learning + Transfer Learning | Jupyter | 2026-08-20 |
-| [Fine-tuned-Chatbot-RAG](https://github.com/FarrelGhozy/Fine-tuned-Chatbot-Tim-Legal-berbasis-RAG) | Chatbot tim legal berbasis RAG | Jupyter | 2026-07-25 |
-| [Workflow-CI](https://github.com/FarrelGhozy/Workflow-CI) | MLflow project — Diabetes model training + CI | Python | 2026-07-21 |
-| [CNN-vs-Transfer-Learning](https://github.com/FarrelGhozy/CNN-vs-Transfer-Learning-untuk-Klasifikasi-Citra) | Klasifikasi citra — CNN vs Transfer Learning | Jupyter | 2026-07-02 |
-| [TI5A2_PengolahanSinyalDigital](https://github.com/FarrelGhozy/TI5A2_452024611053_PengolahanSinyalDigital_FarrelGhozy) | UAS DSP — spatial, frequency-domain & hybrid filtering | Jupyter | 2026-08-20 |
-| [Filtering_Data_CSV](https://github.com/FarrelGhozy/Filtering_Data_SCV_dengan_python_Numpy-pandas) | Menyaring data kosong CSV dengan Numpy-Pandas | Jupyter | ★1 |
-
-### 🖥️ Infra, Web Profil & Lainnya
-
-| Repository | Description | Stack | Updated |
-|:-----------|:------------|:-----:|:-------:|
-| [mcu-server-projek](https://github.com/FarrelGhozy/mcu-server-projek) | Server project config | Shell | 2026-08-08 |
-| [web-profile-cbb-ceriya](https://github.com/FarrelGhozy/web-profile-cbb-ceriya) | Web profil TK CBB Ceriya | CSS | 2026-08-27 |
-| [Projek_DTC](https://github.com/FarrelGhozy/Projek_DTC) | Web Darussalam Technologic Care | HTML | 2026-06-28 ★1 |
-| [Pedoman_Dex_Unida_2026](https://github.com/FarrelGhozy/Pedoman_Dex_Unida_2026) | Info lengkap acara DEX UNIDA 2026 | HTML | 2026-04-12 |
-| [my-portofolio](https://github.com/FarrelGhozy/my-portofolio) | Portofolio pribadi — Astro | Astro | 2026-06-21 |
-| [pondok-umkm](https://github.com/FarrelGhozy/pondok-umkm) | Website profil UMKM pondok — Astro | Astro | 2026-07-11 |
+</details>
 
 <details>
 <summary><b>📚 Tugas Kuliah & Arsip (klik untuk expand)</b></summary>
