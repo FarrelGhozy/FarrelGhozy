@@ -167,20 +167,17 @@ philosophy: "Always experimenting, always learning 🔬"
 
 <details>
 <summary><b>📚 Tugas Kuliah & Arsip (klik untuk expand)</b></summary>
-<br>
 
-| Repository | Description | Stack |
-|:-----------|:------------|:-----:|
-| [Tugas KalkulatorTip](https://github.com/FarrelGhozy/TI5A2_452024611053_TugasKalkulatorTip) | Tip kustom dengan Jetpack Compose | Kotlin |
-| [Tugas Lemonade](https://github.com/FarrelGhozy/TI5A2_452024611053_TugasLemonadeApp) | Lemonade app | Kotlin |
-| [Tugas DiceRoller](https://github.com/FarrelGhozy/TI5A2_452024611053_DiceRoller) | Dice roller | Kotlin |
-| [Tugas12 Repository+WorkManager](https://github.com/FarrelGhozy/Tugas12_Android_Repository_WorkManager_452024611053) | Android repository pattern | Kotlin |
-| [Tugas13 UI Design](https://github.com/FarrelGhozy/Tugas13_Android_UI_Design_452024611053) | Android UI design | Kotlin |
-| [ProjekAndroid1](https://github.com/FarrelGhozy/ProjekAndroid1) | Tugas 1 Android | Kotlin |
-| [Projek_ML_Prediksi_Kelulusan](https://github.com/FarrelGhozy/Projek_ML_Prediksi_Kelulusan) | Model ML prediksi kelulusan | Jupyter |
-| [Template-Web-UMKM](https://github.com/FarrelGhozy/Template-Web-UMKM) | Template web UMKM Bootstrap 5 | HTML |
-| [Suit_Jawa](https://github.com/FarrelGhozy/Suit_Jawa) | Game suit Jawa sederhana | JavaScript ★1 |
-| [UAS_Basis_data-Projek-UTC](https://github.com/FarrelGhozy/UAS_Basis_data-Projek-UTC) | Database sistem kasir UTC | Python ★1 |
+- [Tugas KalkulatorTip](https://github.com/FarrelGhozy/TI5A2_452024611053_TugasKalkulatorTip) — Tip kustom dengan Jetpack Compose (Kotlin)
+- [Tugas Lemonade](https://github.com/FarrelGhozy/TI5A2_452024611053_TugasLemonadeApp) — Lemonade app (Kotlin)
+- [Tugas DiceRoller](https://github.com/FarrelGhozy/TI5A2_452024611053_DiceRoller) — Dice roller (Kotlin)
+- [Tugas12 Repository+WorkManager](https://github.com/FarrelGhozy/Tugas12_Android_Repository_WorkManager_452024611053) — Android repository pattern (Kotlin)
+- [Tugas13 UI Design](https://github.com/FarrelGhozy/Tugas13_Android_UI_Design_452024611053) — Android UI design (Kotlin)
+- [ProjekAndroid1](https://github.com/FarrelGhozy/ProjekAndroid1) — Tugas 1 Android (Kotlin)
+- [Projek_ML_Prediksi_Kelulusan](https://github.com/FarrelGhozy/Projek_ML_Prediksi_Kelulusan) — Model ML prediksi kelulusan (Jupyter)
+- [Template-Web-UMKM](https://github.com/FarrelGhozy/Template-Web-UMKM) — Template web UMKM Bootstrap 5 (HTML)
+- [Suit_Jawa](https://github.com/FarrelGhozy/Suit_Jawa) — Game suit Jawa sederhana (JavaScript ★1)
+- [UAS_Basis_data-Projek-UTC](https://github.com/FarrelGhozy/UAS_Basis_data-Projek-UTC) — Database sistem kasir UTC (Python ★1)
 
 </details>
 
